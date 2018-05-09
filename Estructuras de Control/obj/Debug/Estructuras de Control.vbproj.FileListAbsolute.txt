@@ -9,3 +9,14 @@ C:\Users\LaCositaEsa\Source\Repos\Estructuras de Control\Estructuras de Control\
 C:\Users\LaCositaEsa\Source\Repos\Estructuras de Control\Estructuras de Control\obj\Debug\Estructuras de Control.exe
 C:\Users\LaCositaEsa\Source\Repos\Estructuras de Control\Estructuras de Control\obj\Debug\Estructuras de Control.xml
 C:\Users\LaCositaEsa\Source\Repos\Estructuras de Control\Estructuras de Control\obj\Debug\Estructuras de Control.pdb
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\bin\Debug\Estructuras de Control.exe.config
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\bin\Debug\Estructuras de Control.exe
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\bin\Debug\Estructuras de Control.pdb
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\bin\Debug\Estructuras de Control.xml
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\obj\Debug\Estructuras de Control.vbprojAssemblyReference.cache
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\obj\Debug\Estructuras_de_Control.Resources.resources
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\obj\Debug\Estructuras de Control.vbproj.GenerateResource.cache
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\obj\Debug\Estructuras de Control.vbproj.CoreCompileInputs.cache
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\obj\Debug\Estructuras de Control.exe
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\obj\Debug\Estructuras de Control.xml
+C:\Users\LaCositaEsa\Source\Repos\pg2-tp202-estructuras-control-GonzLeandro\Estructuras de Control\obj\Debug\Estructuras de Control.pdb
