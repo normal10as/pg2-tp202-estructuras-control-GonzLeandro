@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D290DED3-C4BF-4953-95B5-227BD28468AD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estructuras_de_Control.doscuatro</StartupObject>
+    <StartupObject>Estructuras_de_Control.doscinco</StartupObject>
     <RootNamespace>Estructuras_de_Control</RootNamespace>
     <AssemblyName>Estructuras de Control</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,6 +68,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="doscinco.vb" />
     <Compile Include="doscuatro.vb" />
     <Compile Include="dosdos.vb" />
     <Compile Include="dostres.vb" />
