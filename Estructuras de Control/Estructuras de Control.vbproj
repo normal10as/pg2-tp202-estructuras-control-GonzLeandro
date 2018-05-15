@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D290DED3-C4BF-4953-95B5-227BD28468AD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estructuras_de_Control.doscinco</StartupObject>
+    <StartupObject>Estructuras_de_Control.dosdoce</StartupObject>
     <RootNamespace>Estructuras_de_Control</RootNamespace>
     <AssemblyName>Estructuras de Control</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -70,7 +70,13 @@
   <ItemGroup>
     <Compile Include="doscinco.vb" />
     <Compile Include="doscuatro.vb" />
+    <Compile Include="dosdoce.vb" />
     <Compile Include="dosdos.vb" />
+    <Compile Include="doseis.vb" />
+    <Compile Include="dosnueve.vb" />
+    <Compile Include="dosocho.vb" />
+    <Compile Include="dosonce.vb" />
+    <Compile Include="dossiete.vb" />
     <Compile Include="dostres.vb" />
     <Compile Include="dosuno.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -88,6 +94,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="test.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
