@@ -13,13 +13,13 @@
         e = Console.ReadLine()
         If a > b And a > c And a > d And a > e Then
             Console.WriteLine("El mayor numero es '{0}' y su posicion de ingreso fue la Primera.", a)
-        ElseIf b > a And b > c And b > d And b > e Then
+        ElseIf b > c And b > d And b > e Then
             Console.WriteLine("El mayor numero es '{0}' y su posicion de ingreso fue la Segunda.", b)
-        ElseIf c > a And c > b And c > d And c > e Then
+        ElseIf c > d And c > e Then
             Console.WriteLine("El mayor numero es '{0}' y su posicion de ingreso fue la Tercera.", c)
-        ElseIf d > a And d > b And d > c And d > e Then
+        ElseIf d > e Then
             Console.WriteLine("El mayor numero es '{0}' y su posicion de ingreso fue la Cuarta.", d)
-        ElseIf e > a And e > b And e > c And e > d Then
+        Else
             Console.WriteLine("El mayor numero es '{0}' y su posicion de ingreso fue la Quinta.", e)
         End If
         Console.ReadKey()

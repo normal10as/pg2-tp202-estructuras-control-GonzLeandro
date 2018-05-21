@@ -8,15 +8,14 @@
         Console.WriteLine("Ingrese el Precio unitario del producto: ")
         pre = Console.ReadLine()
 
+        total = (cant * pre) - (cant * pre)
+
         If cant >= 10 And cant <= 50 Then
-            total = (cant * pre) - (cant * pre) * 0.05
-            Console.WriteLine("El precio total es: " & total)
+            Console.WriteLine("El precio total es: " & total * 0.05)
         ElseIf cant >= 51 And cant <= 250 Then
-            total = (cant * pre) - (cant * pre) * 0.1
-            Console.WriteLine("El precio total es: " & total)
+            Console.WriteLine("El precio total es: " & total * 0.1)
         ElseIf cant >= 251 Then
-            total = (cant * pre) - (cant * pre) * 0.2
-            Console.WriteLine("El precio total es: " & total)
+            Console.WriteLine("El precio total es: " & total * 0.2)
         Else
             total = (cant * pre)
             Console.WriteLine("El precio total es: " & total)

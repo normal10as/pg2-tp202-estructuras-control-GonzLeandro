@@ -10,9 +10,9 @@
 
         If a < b And a < c Then
             Console.WriteLine("El numero {0} es el menor numero.", a)
-        ElseIf b < a And b < c Then
+        ElseIf b < c Then
             Console.WriteLine("El numero {0} es el menor numero.", b)
-        ElseIf c < a And c < b Then
+        ElseIf c Then
             Console.WriteLine("El numero {0} es el menor numero.", c)
         End If
 
